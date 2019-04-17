@@ -1,5 +1,5 @@
 # extremeValues
-Extreme value analysis of time series
+*Extreme value analysis of time series*
 
 
 Este repositorio surge para generar un algoritmo de detección de valores extremos en series de tiempo.
